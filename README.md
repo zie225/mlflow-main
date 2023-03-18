@@ -26,11 +26,7 @@ To execute the code:
 pip install pipenv
 ```
 
-- Clone the project
 
-```bash
-git clone git@github.com:ahmedbesbes/mlflow.git
-```
 
 - Install the dependencies
 
@@ -130,7 +126,4 @@ In fact, these artifacts are effectively on S3.
 
 ![](./images/s3-console.png)
 
-### Slides
 
-- French [version](https://docs.google.com/presentation/d/1wAZnpVB9tINqZVrMP0Am3BwBgZrFRosgyIzhZ9p9In4/edit?usp=sharing)
-- English version (coming soon)
